@@ -4,7 +4,6 @@
 - GameOfLife (just private, sorry)
 - Soft Touchpad
 
-<table>
   <tr> 
     <td valign="bottom" width="50%">
       <div align="center">
@@ -13,8 +12,7 @@
       </div>
     </td>
     
-  </tr>
-</table><!--
+  </tr><!--
 **gilbertrec/gilbertrec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
