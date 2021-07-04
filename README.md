@@ -17,16 +17,13 @@ I'm a code enthusiast particularly focused on Software Engineering, Cloud Techs 
 <table border="none">
 <td width="50%" display="inline" border="none">
  <div align="left" width="50%" display="inline">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertrec&layout=compact&theme=darcula&hide=HTML&show_icons=true" alt="Languages of Gilbert" />
-          <div align="left" width="25%">
-            <img src="https://github-readme-stats.vercel.app/api?username=gilbertrec&hide=issues&theme=darcula&show_icons=true" alt="Activities of Gilbert"/>
-     </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertrec&layout=compact&theme=darcula&hide=HTML&show_icons=true" alt="Languages of Gilbert" /> 
     </div>
 </td>
     <td border="none">
-        <div align="left" width="40%">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=fhrrqbuz024ycrcvwslgfo4mu&cover_image=true&theme=default" alt="Spotify" /> 
-        </div>
+        <div align="left" width="25%">
+            <img src="https://github-readme-stats.vercel.app/api?username=gilbertrec&hide=issues&theme=darcula&show_icons=true" alt="Activities of Gilbert"/>
+     </div>
     </td>
     </table>
     <!--
