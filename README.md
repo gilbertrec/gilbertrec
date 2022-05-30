@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Gilberto!🇮🇹
 I'm a Master Student of Computer Science at University of Salerno.
 
-I'm a code enthusiast particularly focused on Software Engineering, Cloud Techs and AI.
+I'm a code enthusiast particularly focused on Software Engineering and AI.
 
 
 
