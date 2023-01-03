@@ -22,7 +22,7 @@ I'm a code enthusiast particularly focused on Software Engineering and AI.
 </td>
     <td border="none">
         <div align="left" width="25%">
-            <img src="https://github-readme-stats.vercel.app/api?username=gilbertrec&hide=issues&theme=darcula&show_icons=true" alt="Activities of Gilbert"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=gilbertrec&theme=dark&show_icons=true" alt="Activities of Gilbert"/>
      </div>
     </td>
     </table>
