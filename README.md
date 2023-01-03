@@ -17,7 +17,7 @@ I'm a code enthusiast particularly focused on Software Engineering and AI.
 <table border="none">
 <td width="50%" display="inline" border="none">
  <div align="left" width="50%" display="inline">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilbertrec&layout=compact&theme=darcula&hide=HTML&show_icons=true" alt="Languages of Gilbert" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Languages of Gilbert" /> 
     </div>
 </td>
     <td border="none">
